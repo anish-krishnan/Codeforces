@@ -23,8 +23,11 @@ int main() {
   for (int i = 0; i < epochs; i++) {
     cin >> n >> k;
 
-    for (int j = 0; j < k; j++) {
+    if(n % 2 == 0){
+      n += k * 2;
+    } else {
       n += f(n);
+      n += (k-1) * 2;
     }
     cout << n << endl;
   }
