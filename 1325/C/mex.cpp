@@ -1,3 +1,14 @@
+/*
+  * Link: https://codeforces.com/contest/1325/problem/C
+  * 
+  * Algorithm: Greedily assign increasing labels
+  *  in decreasing order of degrees of vertices.
+  * 
+  *  So first choose the highest degree vertex,
+  *  and assign increasing labels along the 
+  *  incident edges, and so on.
+ */
+
 #include <iostream>
 #include <unordered_map>
 #include <vector>
