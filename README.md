@@ -8,4 +8,5 @@ I am keeping track of my Competitive Programming Progress here.
   - C: Ehab and MEXs
 - 1350 
   - A: Orac and Factors
-  - B: Orac and Medians
+  - B: Orac and Models
+  - D: Orac and Medians
