@@ -1,10 +1,10 @@
 # Codeforces
 I am keeping track of my Competitive Programming Progress here.
 
-### Favorites :heart:
+### :heart: Favorites
 - 1344/B: Monopole Magnets
 
-### Completed :white_check_mark:
+### :white_check_mark: Completed
 - 1325
   - A: Ehab and GCD
   - B: CopyCopyCopy
