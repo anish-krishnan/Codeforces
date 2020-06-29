@@ -1,3 +1,4 @@
+// Problem: https://codeforces.com/contest/1367/problem/C
 #include <iostream>
 
 using namespace std;
@@ -21,7 +22,6 @@ int num_tables(int i,int j,int n,int k){
   if(i == 0 && j == n-1)
     return 1 + num_tables(i+1, j, n, k);
   
-  // Problem: https://codeforces.com/contest/1367/problem/C
   if(i != 0 && j != n-1)
     return (len+1)/(k+1) - 1;
   
