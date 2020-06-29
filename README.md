@@ -15,3 +15,7 @@ I am keeping track of my Competitive Programming Progress here.
   - A: Orac and Factors
   - B: Orac and Models
   - D: Orac and Medians
+- 1367
+  - A: Short Substrings
+  - B: Even Array
+  - C: Social Distancing
