@@ -3,6 +3,7 @@ I am keeping track of my Competitive Programming Progress here.
 
 ### :heart: Favorites
 - 1344/B: Monopole Magnets
+- Foobar/running-with-bunnies
 - 1367/C: Social Distancing
 
 ### :white_check_mark: Completed
@@ -20,3 +21,5 @@ I am keeping track of my Competitive Programming Progress here.
   - A: Short Substrings
   - B: Even Array
   - C: Social Distancing
+- Foobar
+  - Running with Bunnies
