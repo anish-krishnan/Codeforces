@@ -1,6 +1,8 @@
 {
   "files.associations": {
     "ostream": "cpp",
-    "ios": "cpp"
+    "ios": "cpp",
+    "tuple": "cpp",
+    "algorithm": "cpp"
   }
 }
